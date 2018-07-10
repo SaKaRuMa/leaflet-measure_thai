@@ -59,7 +59,7 @@ export default {
     decimals: 0
   },
   wa:{
-    factor: 0.000625 % 1 * 4 % 1,
+    factor: 0.000625 % 1 * 4 % 1 * 100,
     display: 'WA',
     decimals: 0
   }    
