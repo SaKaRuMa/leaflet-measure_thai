@@ -277,7 +277,10 @@ L.Control.Measure = L.Control.extend({
         miles: __('miles'),
         sqfeet: __('sqfeet'),
         sqmeters: __('sqmeters'),
-        sqmiles: __('sqmiles')
+        sqmiles: __('sqmiles'),
+        rai: __('rai'),
+        ngan: __('ngan'),
+        wa: __('wa')
       };
 
       const u = L.extend({ factor: 1, decimals: 0 }, unit);
