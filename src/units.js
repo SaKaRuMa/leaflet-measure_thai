@@ -50,17 +50,17 @@ export default {
   },
   rai:{
     factor: 0.000625,
-    display: 'RAI',
+    display: 'rai',
     decimals: 0
   },
   ngan:{
     factor: 0.000625 % 1 * 4,
-    display: 'NGAN',
+    display: 'ngan',
     decimals: 0
   },
   wa:{
     factor: 0.000625 % 1 * 4 % 1 * 100,
-    display: 'WA',
+    display: 'wa',
     decimals: 0
   }    
 };
