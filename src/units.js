@@ -48,17 +48,17 @@ export default {
     display: 'sqmiles',
     decimals: 2
   },
-  rai:{
+  rai: {
     factor: 0.000625,
     display: 'rai',
     decimals: 0
   },
-  ngan:{
+  ngan: {
     factor: 0.000625 % 1 * 4,
     display: 'ngan',
     decimals: 0
   },
-  wa:{
+  wa: {
     factor: 0.000625 % 1 * 4 % 1 * 100,
     display: 'wa',
     decimals: 0
